@@ -1,5 +1,5 @@
 # ActiveMQ Camel
-Spring application to use Apache Camel
+Routing ActiveMQ message with Apache Camel
 
 Status : [![Build Status](https://travis-ci.org/axeldlv/activemqconsumer.svg?branch=master)](https://travis-ci.org/axeldlv/activemqconsumer)
 
